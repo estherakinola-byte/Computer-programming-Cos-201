@@ -1,0 +1,8 @@
+Public class hello world {public static void main(string []args){
+  system.out.println("COURSE:Cos 201")
+    system.out.println("COURSE TITLE: Computer programming 1");
+  system.out.println("Programme: software engineering");
+  system.out.println("week:2");
+  system.out.println("Topic development environment and java");
+  system.out.println("Goal:To learn how to write Java programs.");}
+                         }
